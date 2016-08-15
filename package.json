@@ -1,6 +1,6 @@
 {
   "name": "@nodeutils/reqhere",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add any path to node's require path",
   "main": "lib/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "chai": "^3.5.0",
     "istanbul": "^0.4.4",
     "local-web-server": "^1.2.6",
-    "mocha": "^2.5.3"
+    "mocha": "^3.0.2"
   },
   "dependencies": {
     "stack-trace": "0.0.9"
