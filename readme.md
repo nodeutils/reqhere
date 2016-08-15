@@ -45,10 +45,12 @@ You sure can, and it's a good idea too, so you can spot the difference between a
 1) Make yourself a folder called something like `components`.
 
 2) In there make a file called index.js containing
+
     ```
     "use strict";
     require("@nodeutils/reqhere")();
     ```
+    
 3) Add a folder inside `components` called, for example, `app`.
 
 4) Inside `app` put all your modules and files.
