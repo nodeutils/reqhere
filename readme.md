@@ -1,5 +1,7 @@
 # reqhere
-## Add any path to node's require path
+## Part of the [nodeutils package](https://www.npmjs.com/package/nodeutils)
+
+Add any path to node's require path
 
 Simple straightforward tool to allow you to require locally
 

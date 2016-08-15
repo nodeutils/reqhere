@@ -1,6 +1,6 @@
 {
   "name": "@nodeutils/reqhere",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add any path to node's require path",
   "main": "lib/index.js",
   "scripts": {
