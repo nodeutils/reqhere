@@ -46,10 +46,8 @@ You sure can, and it's a good idea too, so you can spot the difference between a
 
 2) In there make a file called index.js containing
 
-    ```
     "use strict";
     require("@nodeutils/reqhere")();
-    ```
     
 3) Add a folder inside `components` called, for example, `app`.
 
