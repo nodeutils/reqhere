@@ -41,14 +41,18 @@ Not an issue. Add `require("@nodeutils/reqhere")();` as many times as you like, 
 
 ### Can I namespace?
 You sure can, and it's a good idea too, so you can spot the difference between an installable module and a local one.
+
 1) Make yourself a folder called something like `components`.
+
 2) In there make a file called index.js containing
     ```
     "use strict";
     require("@nodeutils/reqhere")();
     ```
 3) Add a folder inside `components` called, for example, `app`.
+
 4) Inside `app` put all your modules and files.
+
 5) Done! From anywhere you can now `require("app/someModuleYouMade");
 
 Need more help, found a bug? [Raise an issue](https://github.com/nodeutils/reqhere/issues)
