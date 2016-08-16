@@ -1,9 +1,19 @@
 # reqhere
-## Part of the [nodeutils package](https://www.npmjs.com/package/nodeutils)
+## Part of the [[nodeutils package]](https://www.npmjs.com/package/nodeutils)
 
 Add any path to node's require path
 
 Simple straightforward tool to allow you to require locally
+
+## Installation
+
+Install the package via `npm`:
+
+```
+$ npm install @nodeutils/reqhere --save
+```
+
+## Usage
 
 Wherever you want to be a module root:
 ```
